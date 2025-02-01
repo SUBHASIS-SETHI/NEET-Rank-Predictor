@@ -27,7 +27,7 @@ Tech Stack:
   
 Steps to Run the Project:
  1.Clone the Repository:
-  -git clone https://github.com/your-username/NEET-Rank-Predictor.git
+  -git clone https://github.com/SUBHASIS-SETHI/NEET-Rank-Predictor
   -cd student-rank-predictor
  2.Build the Project:
   -mvn clean install
